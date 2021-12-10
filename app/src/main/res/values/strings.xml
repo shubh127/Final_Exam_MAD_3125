@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FinalExam</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="username_empty_error">UserName cannot be empty!!!</string>
+    <string name="password_empty_error">Password cannot be empty!!!</string>
+    <string name="invalid_username_password">Invalid Username or password!!!</string>
+    <string name="username">user1</string>
+    <string name="password">password1</string>
+    <string name="select_country">Select Country</string>
+    <string name="capital">Capital: %s</string>
+    <string name="add_to_wishlist">Add to wishlist</string>
+    <string name="no_of_visitors">No of visitors</string>
+    <string name="default_cost">Total Cost: $0</string>
+    <string name="invalid_count">No of visitors is invalid</string>
+    <string name="total_cost">Total Cost: $%s</string>
+    <string name="select_destination">Select Destination</string>
+</resources>
